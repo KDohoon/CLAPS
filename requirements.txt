@@ -1,0 +1,10 @@
+# LLM pipeline (Descriptor / Initializer / Updater / Appraiser / Generator)
+pandas>=1.5
+openpyxl>=3.0          # read the study .xlsx self-report file
+
+# CAT module (Cross-modal Aligned Transformer)
+torch>=2.0
+transformers>=4.30     # text encoder: KURE-v1 (nlpai-lab/KURE-v1)
+scikit-learn>=1.1
+numpy>=1.23
+tqdm>=4.64
