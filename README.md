@@ -8,9 +8,6 @@ cognitive-behavioral theory of social anxiety, and (2) aligning those natural-la
 symptoms with physiological/behavioral time-series via a Cross-modal Aligned
 Transformer (CAT) to predict PEPQ-R scores.
 
-This repository contains the **framework code only**. The VRET dataset, generated LLM
-outputs, and trained checkpoints are not redistributed — see *Data layout* below.
-
 ## Framework → code map
 
 The framework has five LLM components plus the CAT prediction module
